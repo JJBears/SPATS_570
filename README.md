@@ -8,4 +8,19 @@ The hardware needed for this package is as follows:
 
 Install instructions are as follows:
 
+Install pyserial via: https://pythonhosted.org/pyserial/
+and 
+
+    pip install pyserial
+
+into your environment
+
+Install PySide6 via: https://pypi.org/project/PySide6/
+and
+
+    pip install PySide6
+
+
+Examples for testing the code are found in examples.md or
+
 
