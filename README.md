@@ -21,6 +21,6 @@ and
     pip install PySide6
 
 
-Examples for testing the code are found in examples.md or
+Examples for testing the code are found in examples.md or https://github.com/JJBears/SPATS_570/blob/main/examples.md
 
 
