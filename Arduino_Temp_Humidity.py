@@ -20,7 +20,7 @@ class ArduinoTempHumidity(QObject):
     def __init__(self, config):
         super().__init__()
         self.config = config
-        self.port = config.get("port", "COM4")
+        self.port = config.get("port", "COM4") #Check COM port before running
         self.baud_rate = config.get("baud_rate", 9600)
         self.name = config.get("name", "ArduinoTempHumidity")
         self.serial = None
