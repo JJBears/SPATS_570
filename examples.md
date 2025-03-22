@@ -9,4 +9,5 @@ When Prompted "what Solution" there are 2 example answers
   CaC
   *or*
   EtOH
-CaC should give a return of 
+
+Both examples show output buzz/beep dialog and a running example of the commands it produced
