@@ -1,5 +1,5 @@
 # SPATS_570
-Syringe Pump Automation for Class Project
+Syringe Pump Automation for Histologic Protocols
 
 This is a package designed to be used with New Era Syringe Pumps as open source system that runs 1+ pumps for Histology protocols.
 
